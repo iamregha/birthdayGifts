@@ -3,9 +3,16 @@
 body{
     text-align: center;
     font-family: 'Happy Monkey', cursive;
+    background: #A2D2FF;
+    color: #FFFFFF;
 }
 
 #pics{
     width: 150px;
     border-radius: 50%;
+    border: 5px solid #EFB0C9;
+}
+
+h1, h2, h3, h4, p{
+    text-shadow: 0 0px 1px black;
 }
