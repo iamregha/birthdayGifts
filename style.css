@@ -37,6 +37,15 @@ h1, h2, h3, h4, p{
     align-items: center;
 }
 
+.gift-section{
+    text-align: center;
+}
+
 .gift-image{
+    background-image: url("assets/images/gift-cover.png");
+    background-size: cover;
     width: 400px;
+    height: 400px;
+    /* border: 6px solid white; */
+    margin: 0 auto;
 }
