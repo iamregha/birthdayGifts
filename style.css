@@ -48,5 +48,5 @@ h1, h2, h3, h4, p{
 }
 
 .gift-image:hover{
-    background-image: url("assets/images/happybday.webp");
+    background-image: url("assets/images/happybday.webp"); 
 }
