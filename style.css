@@ -39,7 +39,6 @@ h1, h2, h3, h4, p{
 
 
 .gift-image{
-    background-image: url("assets/images/gift-cover.png");
     background-size: cover;
     width: 400px;
     height: 400px;
@@ -47,6 +46,17 @@ h1, h2, h3, h4, p{
     margin: 0 auto;
 }
 
-.gift-image:hover{
+#first-gift{
+    background-image: url("assets/images/gift-cover.png");
+}
+
+#first-gift:hover{
     background-image: url("assets/images/happybday.webp"); 
+}
+#second-gift{
+    background-image: url("assets/images/gift-cover.png");
+}
+
+#second-gift:hover{
+    background-image: url("assets/images/hugs.gif"); 
 }
