@@ -74,3 +74,12 @@ h1, h2, h3, h4, p{
 #badass:hover{
     background-image: url("assets/images/badass.gif"); 
 }
+#cheers{
+    background-image: url("assets/images/gift-cover.png");
+    height: 200px;
+    padding-bottom: 30px;
+}
+
+#cheers:hover{
+    background-image: url("assets/images/cheers.gif"); 
+}
