@@ -60,3 +60,17 @@ h1, h2, h3, h4, p{
 #second-gift:hover{
     background-image: url("assets/images/hugs.gif"); 
 }
+#genius{
+    background-image: url("assets/images/gift-cover.png");
+}
+
+#genius:hover{
+    background-image: url("assets/images/genius.gif"); 
+}
+#badass{
+    background-image: url("assets/images/gift-cover.png");
+}
+
+#badass:hover{
+    background-image: url("assets/images/badass.gif"); 
+}
