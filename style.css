@@ -83,3 +83,16 @@ h1, h2, h3, h4, p{
 #cheers:hover{
     background-image: url("assets/images/cheers.gif"); 
 }
+
+.footer{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.p-footer{
+    margin-bottom: 0px;
+}
+.tutorial{
+    margin-top: 0px;
+    text-decoration: none;
+}
