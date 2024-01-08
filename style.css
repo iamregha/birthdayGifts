@@ -92,7 +92,12 @@ h1, h2, h3, h4, p{
 .p-footer{
     margin-bottom: 0px;
 }
-.tutorial{
+a{
     margin-top: 0px;
     text-decoration: none;
+    color: inherit;
+}
+
+.tutorial{
+    margin-top: 0px;
 }
