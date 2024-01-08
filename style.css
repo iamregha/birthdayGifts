@@ -85,19 +85,11 @@ h1, h2, h3, h4, p{
 }
 
 .footer{
-    margin-top: 40px;
-    margin-bottom: 30px;
+    width: 400px;
+    margin: 30px auto 20px;
+    font-style: italic;
 }
 
-.p-footer{
-    margin-bottom: 0px;
-}
 a{
-    margin-top: 0px;
-    text-decoration: none;
     color: inherit;
-}
-
-.tutorial{
-    margin-top: 0px;
 }
