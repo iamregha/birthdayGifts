@@ -3,7 +3,8 @@
 body{
     text-align: center;
     font-family: 'Happy Monkey', cursive;
-    background: #A2D2FF;
+    /**background: #A2D2FF;**/
+    background: linear-gradient(blue, pink);
     color: #FFFFFF;
 }
 
